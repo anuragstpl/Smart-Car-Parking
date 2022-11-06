@@ -1,0 +1,9 @@
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\obj\Debug\CarParkWeb.csprojResolveAssemblyReference.cache
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\obj\Debug\PasswordManagerWeb.dll
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\obj\Debug\PasswordManagerWeb.pdb
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\bin\PasswordManagerWeb.dll
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\bin\PasswordManagerWeb.pdb
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\bin\CarParkServices.dll
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\bin\EntityFramework.dll
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\bin\CarParkServices.pdb
+E:\Student Jobs\Xamarin\Car Park\Web\CarParkWeb\bin\EntityFramework.xml
